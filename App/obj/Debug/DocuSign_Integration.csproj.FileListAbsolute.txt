@@ -31,3 +31,5 @@ C:\WL_DATA\Code\Github\DocuSign_Integration\App\bin\Microsoft.CodeDom.Providers.
 C:\WL_DATA\Code\Github\DocuSign_Integration\App\obj\Debug\DocuSign_Integration.csprojResolveAssemblyReference.cache
 C:\WL_DATA\Code\Github\DocuSign_Integration\App\obj\Debug\App.dll
 C:\WL_DATA\Code\Github\DocuSign_Integration\App\obj\Debug\App.pdb
+C:\WL_DATA\Code\Github\DocuSign_Integration\App\bin\DocuSign.eSign.dll
+C:\WL_DATA\Code\Github\DocuSign_Integration\App\bin\RestSharp.dll

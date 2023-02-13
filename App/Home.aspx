@@ -12,7 +12,7 @@
     <table>
         <tr>
             <td>
-                <asp:Button ID="btnSave" runat="server" Text="Save" />
+                <asp:Button ID="btnSave" runat="server" Text="Save" OnClick="btnSave_Click" />
             </td>
         </tr>
     </table>

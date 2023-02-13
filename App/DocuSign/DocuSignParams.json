@@ -1,0 +1,11 @@
+﻿{
+	"Enabled": true,
+	"EmailSubject": "DocuSign EDF Test",
+	"IntegratorKey": "6ac30887-510e-46c8-af75-d4eda6559d58",
+	"UserId": "6158538d-76cd-4fa8-ae8f-ce419c076782",
+	"PrivateKey": "-----BEGIN RSA PRIVATE KEY-----&#xA; MIIEowIBAAKCAQEAog7CcvHxHP7RC1QWKmaqGIaKj9/d5vGhEA5nbI1DGr+ghJnm K8VcurwIo/LicrpTOMSazbh1njkykrxevw+Q1mTHgmc2Uw5KQPRY9BkP85JnOJWd URDiav4M4HJRHTBWhitiyI8UMV39aCyHMXanFelgW1W+OoM8w56npYQ6G5kFbMLb fUiW2nn+F9v+aE/FHlmmEc7EeQTXKbh8DA7ylPXsIUylAV8EXTJjOvbjqlz9j6C7 2b5s09Ci5Xvn2Nyj7BipDyhumfBOWOtTr4QMuEKv7U8mjik0f/eolMnZVyOj+jTy wB+h7oCzaDJEKNTHxSsXNGj65sIbMjdQykpnSQIDAQABAoH/FYBoxTQD2R+oUYmC DyndsHGKRMmuDUokfqhdo2Bwg8PSQ+cDFIpEcphu77+X27wo6CwW7lt9eE7SmsbG JrOMPvN6NYkTVIcMOchR3Z59rFoH+Z7/r38zUzx+R4hAh/8ioqC7GH3TUzYZjZUR drMPWpqZPHgdu/wVSr+4S2g/O5FtfeXDo1QF65HDZ/8qGhl/+Bu6m6aZdDibMcPD Xl+9KPk9U+++6PmQ3al2mMj6C/TA5yNkRJ3N/od8QcykuA2tDswBK2xhl5kAMLqW kLNU++83HzU++ojwzrrZliJVMlrw4mfUws7L8k4exDxlm4hptT+aqlRBPlpvba4G +9MBAoGBANKIhI/iNsgJWrSl1ztROVv0D1uiL5BzRNIRf+RsqR+gzkMO8d38ve+y v/2W2vzjqOoUn3LNueQrVoNT83j+KUFf2gOPNKxE4W9e7qgwqid9T4DjHhFjX5kI DaEHyAvSkpPATKzdQaVTtgUtoLQWx514uC3iLvp1mVDb/Dm7DPt1AoGBAMUOO4x0 eHdjKIA9YUKHKutMXxcpeQuDq41sMxUcOJv8ll+3eYzzbfvlTBDyw5VIm7O57pMw Ij4P8veJKEsXxfKCNxNM6JQ/yX6BAEhaS+MRHVcPZEjmaLnsKLAsF40KWbAJVFn4 YrN4C3MCdFgwExOnApe8roakHOZjdOm9ucYFAoGBAKWr8EUZimpXkh1d88Ul4bFO mVdOhYdybdGxG6cxKtVMwYNbm1FItl6Nly+DKsiejinGGMNKyOGYiPfHdGzd9LER MIpkgtqdSZlOZxfLU9rHbWzLTLn6LRxLjg4OBYnoJphGVxAg/KuQ+EeS5EdTNbnh aW4R8038hK1wr0buvwSRAoGBALWPx45CQjy+QDLoWxTRNdpXI8ZTkBPr3cUQTIDG 3+HZeTP3+SbFpDDTtKJpC4wgulV+mzNCxkoop9UrqtSFsv0evWArHKB7pUvJ0FjZ 2dH9kusEY4JHyXaFAXhRJ+HsB3cLIY1ELqztjp8JQ+l9YhZZayojzyp/S6F7Qd2b 0e+BAoGBAMKIklJSr8/Cv8rvkyQhNZwoK6X+/5wVCUKZS+3iF/adM8gaLHmdbPn/ +qEKE4gSZyIVU5SnZ2V50YbKWEF/AfqApi6iuO91Xi8XxYFLUU44U5CgeFXNQeq8 9/ePEE1U6BZhM/M85QQwCaUPwc+SHg1sWOXdj0TVC3H7YI6RBYL3 &#xA;-----END RSA PRIVATE KEY-----",
+	"RestApiUrl": "https://demo.docusign.net/restapi",
+	"SignHereTagAnchorString": "signhere",
+	"SignDateTagAnchorString": "signDate",
+	"DocuSignSynchronizationJobLastExecute": "0001-01-01T00:00:00"
+}

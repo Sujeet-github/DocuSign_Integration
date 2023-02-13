@@ -28,8 +28,16 @@ C:\WL_DATA\Code\Github\DocuSign_Integration\App\bin\Microsoft.AI.Web.xml
 C:\WL_DATA\Code\Github\DocuSign_Integration\App\bin\Microsoft.AI.WindowsServer.xml
 C:\WL_DATA\Code\Github\DocuSign_Integration\App\bin\Microsoft.ApplicationInsights.xml
 C:\WL_DATA\Code\Github\DocuSign_Integration\App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\WL_DATA\Code\Github\DocuSign_Integration\App\obj\Debug\DocuSign_Integration.csprojResolveAssemblyReference.cache
 C:\WL_DATA\Code\Github\DocuSign_Integration\App\obj\Debug\App.dll
 C:\WL_DATA\Code\Github\DocuSign_Integration\App\obj\Debug\App.pdb
 C:\WL_DATA\Code\Github\DocuSign_Integration\App\bin\DocuSign.eSign.dll
 C:\WL_DATA\Code\Github\DocuSign_Integration\App\bin\RestSharp.dll
+C:\WL_DATA\Code\Github\DocuSign_Integration\App\obj\Debug\DocuSign_Integration.csprojResolveAssemblyReference.cache
+C:\WL_DATA\Code\Github\DocuSign_Integration\App\bin\Newtonsoft.Json.dll
+C:\WL_DATA\Code\Github\DocuSign_Integration\App\bin\Newtonsoft.Json.xml
+C:\WL_DATA\Code\Github\DocuSign_Integration\App\bin\Marvin.JsonPatch.dll
+C:\WL_DATA\Code\Github\DocuSign_Integration\App\bin\SEEK.AdPostingApi.Client.dll
+C:\WL_DATA\Code\Github\DocuSign_Integration\App\bin\Tavis.UriTemplates.dll
+C:\WL_DATA\Code\Github\DocuSign_Integration\App\bin\Tavis.UriTemplates.pdb
+C:\WL_DATA\Code\Github\DocuSign_Integration\App\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\WL_DATA\Code\Github\DocuSign_Integration\App\bin\System.IdentityModel.Tokens.Jwt.xml
